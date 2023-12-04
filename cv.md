@@ -4,6 +4,11 @@
 - discord - Landscape#2293
 - e-mail - atye996@gmail.com
 
+### ***About Me***:
+Incomplete higher education of Computer Science.
+I started learning programming a little over a year ago. For now, my main goal is to learn javascript.
+My strengths: perseverance, fast learning and soft skills.
+
 ### ***Tech Stack***:
 - HTML/CSS
 - JavaScript
